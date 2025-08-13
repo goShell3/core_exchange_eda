@@ -2,6 +2,7 @@
 /venv
 
 
-# jupyter notebook files
-*.ipynb_checkpoints
-*.ipynb
+# .csv
+*.csv
+*.csv.gz    
+*.csv.zip
